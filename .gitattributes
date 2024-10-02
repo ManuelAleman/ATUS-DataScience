@@ -1,0 +1,1 @@
+atus_anual_csv/conjunto_de_datos/*.csv filter=lfs diff=lfs merge=lfs -text
